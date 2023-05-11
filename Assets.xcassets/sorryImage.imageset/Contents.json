@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sorry-hand-gesture.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
